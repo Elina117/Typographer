@@ -1,0 +1,11 @@
+\\Mac\Home\Downloads\Typographer\Typographer\bin\Debug\Typographer.exe.config
+\\Mac\Home\Downloads\Typographer\Typographer\bin\Debug\Typographer.exe
+\\Mac\Home\Downloads\Typographer\Typographer\bin\Debug\Typographer.pdb
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.Form1.resources
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.Properties.Resources.resources
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.exe
+\\Mac\Home\Downloads\Typographer\Typographer\obj\Debug\Typographer.pdb
