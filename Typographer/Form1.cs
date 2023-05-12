@@ -18,7 +18,7 @@ namespace Typographer
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
             string text = richTextBox_enter.Text;
 
@@ -81,7 +81,7 @@ namespace Typographer
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        public void button2_Click(object sender, EventArgs e)
         {
             richTextBox_exit.Clear();
             richTextBox_enter.Clear();

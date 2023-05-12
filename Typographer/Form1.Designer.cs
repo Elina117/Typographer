@@ -5,13 +5,13 @@
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        public System.ComponentModel.IContainer components = null;
 
         /// <summary>
         /// Освободить все используемые ресурсы.
         /// </summary>
         /// <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
-        protected override void Dispose(bool disposing)
+        public override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
             {
@@ -121,12 +121,12 @@
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox richTextBox_enter;
-        private System.Windows.Forms.RichTextBox richTextBox_exit;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button_end;
+        public System.Windows.Forms.RichTextBox richTextBox_enter;
+        public System.Windows.Forms.RichTextBox richTextBox_exit;
+        public System.Windows.Forms.Label label1;
+        public System.Windows.Forms.Label label2;
+        public System.Windows.Forms.Button button1;
+        public System.Windows.Forms.Button button_end;
     }
 }
 
